@@ -49,6 +49,10 @@
 
 ## 📂 My Projects
 
+### 🌍 **[Immigration Decision Support System](https://github.com/rrsec5/immigration-decision-support-system)**
+
+- Microservice-based Decision Support System for country immigration. Built with React (TypeScript), Spring Boot, Spring Cloud (Eureka, API Gateway), and MySQL. Features dynamic algorithmic recommendations based on user surveys and 10-point metrics.
+
 ### 👕 **[Online Clothing Store](https://github.com/rrsec5/online-cloth-shop)**
 
 - This project is a comprehensive full-stack solution for an online clothing store catalog, built with a microservice architecture. It features a responsive React frontend, a scalable Spring Boot backend, and a centralized MySQL database.
